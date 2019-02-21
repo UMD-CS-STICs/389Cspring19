@@ -56,7 +56,7 @@ public class Block {
   /* Build your block here. You will need to create a Merkle
      tree out of your transaction list, and hash the root together
      with the previous block id and the correct nonce. Remember, the
-     nonce must yield two leading 0s for simplicity (i.e., the
+     block hash must yield two leading 0s for simplicity (i.e., the
      first two values in your byte array should be 0). When you
      have the correct number of leading 0s, store the byte array in
      this.blockHash
