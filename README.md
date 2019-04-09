@@ -60,10 +60,10 @@ will be considered afterwards.
 | 7 (3/15) | Politics and Regulation | Quiz 6, Project 2 DUE |
 | 8 (3/22) | SPRING BREAK | |
 | 9 (3/29) | MIDTERM | Final Project OUT |
-| 9 (4/5) | Cryptocurrency Market and ICOs | Quiz 7 |
-| 10 (4/12) | Altcoins (focus on Ethereum) and Proof-of-Stake | Quiz 8 |
-| 11 (4/19) | Ethereum Contracts | Quiz 9 |
-| 12 (4/26) | Non-Blockchain Cryptocurrencies | Quiz 10 |
+| 10 (4/5) | Cryptocurrency Market and ICOs | Quiz 7 |
+| 11 (4/12) | Altcoins (focus on Ethereum) and Proof-of-Stake | Quiz 8 |
+| 12 (4/19) | Ethereum Contracts | Quiz 9 |
+| 13 (4/26) | Non-Blockchain Cryptocurrencies | Quiz 10 |
 | 14 (5/3) | Final Presentations | |
 | 15 (5/10) | Final Presentations | Final Project Due |
 
